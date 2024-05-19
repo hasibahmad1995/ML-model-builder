@@ -80,5 +80,4 @@ The Model Builder Web Application is designed to assist data scientists in strea
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/model-builder-web-app.git
-   cd model-builder-web-app
+   git clone https://github.com/your-username/model-builder-web-app.git](https://github.com/hasibahmad1995/ML-model-builder.git
