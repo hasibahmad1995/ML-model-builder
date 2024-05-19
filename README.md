@@ -1,8 +1,8 @@
-# Model Builder Web Application
+# Machine Learning Model Builder Web Application
 
 ## Project Description
 
-The Model Builder Web Application is designed to assist data scientists in streamlining the process of building, evaluating, and deploying machine learning models. This web-based application provides functionalities for uploading datasets, performing data cleaning operations, selecting algorithms, configuring model parameters, and evaluating model performance. The application aims to simplify and automate the machine learning workflow, making it accessible and efficient for users.
+The Machine Learning Model Builder Web Application is designed to assist data scientists in streamlining the process of building, evaluating, and deploying machine learning models. This web-based application provides functionalities for uploading datasets, performing data cleaning operations, selecting algorithms, configuring model parameters, and evaluating model performance. The application aims to simplify and automate the machine learning workflow, making it accessible and efficient for users.
 
 ## Key Functionalities
 
